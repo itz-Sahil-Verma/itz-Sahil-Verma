@@ -1,8 +1,13 @@
 👋 Hi, I’m Sahil Verma! A final-year B.Tech student in Data Science at the JC BOSE University.
+
 🚀 I’m passionate about ML, AI, and data science, always exploring new technologies.
+
 📱 My journey includes Android development, solving over 500 DSA problems, and contributing to real-time projects.
+
 💡 As a startup enthusiast, I’m currently working on an exciting venture.
+
 🌟 I host an engaging YouTube channel where I interview engineers, delving into their experiences and sharing my college life as well. Join me on this fascinating journey! www.youtube.com/@sahilverma03 🎙️
+
 📫 You can contact me at ss123verma@gmail.com
 
 <!---
