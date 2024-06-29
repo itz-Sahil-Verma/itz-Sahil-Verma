@@ -1,8 +1,9 @@
-- 👋 Hi, I’m SAHIL VERMA
-- 👀 I’m interested in knowing new technologies and want to build a startup
-- 🌱 I’m currently doing b.tech in computer science with data science and learning c++ language and android development
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can contact with me through mail ss123verma@gmail.com
+👋 Hi, I’m Sahil Verma! A final-year B.Tech student in Data Science at the JC BOSE University.
+🚀 I’m passionate about ML, AI, and data science, always exploring new technologies.
+📱 My journey includes Android development, solving over 500 DSA problems, and contributing to real-time projects.
+💡 As a startup enthusiast, I’m currently working on an exciting venture.
+🌟 I host an engaging YouTube channel where I interview engineers, delving into their experiences and sharing my college life as well. Join me on this fascinating journey! www.youtube.com/@sahilverma03 🎙️
+📫 You can contact me at ss123verma@gmail.com
 
 <!---
 itz-Sahil-Verma/itz-Sahil-Verma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
