@@ -2,7 +2,7 @@
 
 🚀 I’m passionate about ML, AI, and data science, always exploring new technologies.
 
-📱 My journey includes Android development, solving over 500 DSA problems, and contributing to real-time projects.
+📱 My journey includes Android development, solving over 650 DSA problems, and contributing to real-time projects.
 
 💡 As a startup enthusiast, I’m currently working on an exciting venture.
 
