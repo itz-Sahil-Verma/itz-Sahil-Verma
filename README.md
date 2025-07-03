@@ -1,16 +1,33 @@
-👋 Hi, I’m Sahil Verma! A final-year B.Tech student in Data Science at the JC BOSE University.
+# 👋 Hi, I’m Sahil Verma
 
-🚀 I’m passionate about ML, AI, and data science, always exploring new technologies.
+🎓 A B.Tech student in Data Science at JC BOSE University, passionate about building impactful products and solving real-world problems through technology.
 
-📱 My journey includes Android development, solving over 650 DSA problems, and contributing to real-time projects.
+---
 
-💡 As a startup enthusiast, I’m currently working on an exciting venture.
+## 🚀 What I Do
 
-🌟 I host an engaging YouTube channel where I interview engineers, delving into their experiences and sharing my college life as well. Join me on this fascinating journey! www.youtube.com/@sahilverma03 🎙️
+- 💻 Currently interning at **E2E Cloud**, gaining hands-on experience with cloud infrastructure (VMs, DBaaS, load balancers, autoscaling) and exploring AI/ML workflows via **E2E-TIR**.
+- 🛠️ Building **ColdMaily** – a cold email automation SaaS using FastAPI, Next.js, Google OAuth, and async job queues.
+- 📱 Previously developed **Campus Connect** – a native Android app with Firebase for real-time community engagement among students.
+- 🧠 Passionate about **AI**, **ML**, **System Design**, and **scalable backend development**.
+- 🧩 Solved **700+ DSA problems** on LeetCode and GFG, strengthening my problem-solving and algorithmic thinking.
 
-📫 You can contact me at ss123verma@gmail.com
+---
 
-<!---
-itz-Sahil-Verma/itz-Sahil-Verma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎙️ Beyond Code
+
+- 🎥 Host of the **Engineer Talks** podcast and YouTube channel, where I share insights from engineers and my own college journey.  
+  🔗 [www.youtube.com/@sahilverma03](https://www.youtube.com/@sahilverma03)
+
+- 🤝 Community builder and team leader — currently managing a 900+ member tech community on WhatsApp.
+
+---
+
+## 💬 Get in Touch
+
+📫 **Email:** ss123verma@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sahilverma03) | [GitHub](https://github.com/itz-Sahil-Verma)
+
+---
+
+*"Let’s build, learn, and grow together!"*
