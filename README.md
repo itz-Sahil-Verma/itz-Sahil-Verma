@@ -7,7 +7,7 @@
 ## 🚀 What I Do
 
 - 💻 Currently interning at **E2E Cloud**, gaining hands-on experience with cloud infrastructure (VMs, DBaaS, load balancers, autoscaling) and exploring AI/ML workflows via **E2E-TIR**.
-- 🛠️ Building **ColdMaily** – a cold email automation SaaS using FastAPI, Next.js, Google OAuth, and async job queues.
+- 🛠️ Building **ColdMaily.com** – a cold email automation SaaS using FastAPI, Next.js, Google OAuth, and async job queues.
 - 📱 Previously developed **Campus Connect** – a native Android app with Firebase for real-time community engagement among students.
 - 🧠 Passionate about **AI**, **ML**, **System Design**, and **scalable backend development**.
 - 🧩 Solved **700+ DSA problems** on LeetCode and GFG, strengthening my problem-solving and algorithmic thinking.
